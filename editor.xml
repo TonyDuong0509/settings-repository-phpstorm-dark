@@ -49,6 +49,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="Vue.parameter.hints.old.vuejs.show.names.for.all.args" />
   </component>
+  <component name="PhpEditorOptions">
+    <option name="SHOW_CLASS_SEPARATORS" value="true" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingOpacity" value="15" />
   </component>
