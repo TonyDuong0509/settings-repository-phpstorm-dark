@@ -1,0 +1,6 @@
+<application>
+  <component name="MonokaiProConfig">
+    <option name="themeFolder" value="monokai-pro-light" />
+    <option name="themeName" value="Monokai Pro Light" />
+  </component>
+</application>
