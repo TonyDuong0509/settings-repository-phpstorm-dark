@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" />
+    <laf themeId="dinbtechit-e4968811e8c127f591d7e670706d4a3c" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="ExperimentalDark" scheme="_@user_TanHong_V2_VS_Dark" />
       <laf-to-scheme laf="ExperimentalLight" scheme="_@user_TanHong_V2_VS_Dark" />
