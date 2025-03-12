@@ -1,7 +1,7 @@
 <application>
   <component name="LafManager">
+    <laf themeId="macOSLight" />
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_TanHong_V2_VS_Dark" />
       <laf-to-scheme laf="ExperimentalLight" scheme="_@user_TanHong_V2_VS_Dark" />
       <laf-to-scheme laf="dinbtechit-2179230b863b9b1d9f1eeb27ca4a3a70" scheme="_@user_TanHong_V2_VS_Dark" />
       <laf-to-scheme laf="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" scheme="_@user_TanHong_V2_VS_Dark" />
